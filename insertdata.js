@@ -4,19 +4,19 @@ use students;
 db.users.insertMany([
     {
         userid:1,
-        name:"Harikrishna",
-        email:"hari@gmail.com",
+        name:"gopinath",
+        email:"gopinath@gmail.com",
         mentorid:1
     },
      {
         userid:2,
-        name:"KaviArasan",
-        email:"kavi@gmail.com",
+        name:"sonali",
+        email:"sona@gmail.com",
         mentorid:2
     },
      {
         userid:3,
-        name:"Manimaran",
+        name:"manikandan",
         email:"mani@gmail.com",
         mentorid:3
     },
